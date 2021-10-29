@@ -1,0 +1,18 @@
+ Realizei o teste que cria um pedido e grava em um banco de dados "fake" com JSON,
+e posso recuperar e exibir os pedidos em uma tabela, no entanto posso cadastrar
+ pedidos infinitamente. assim como tambem posso excluir e editar.
+
+e a aba motoboy para cadastrar os dados pessoais para realizar entrega dos pedidos.
+
+
+1  o banco de dados foi utilizado com JSON  que simula o backend.
+
+2 esta responsivo.
+
+3 ( dica pra testar funcionamento do sistema ) : 
+   existe duas pastas 1 backend e 1 frontend
+   entre na pasta backend pelo cmd e digite  npm init, depois
+    de instalar as dependencias digite npm start
+     faça o mesmo para a pasta frontend.
+  
+  aguarde e ira abrir o browser com o inicio da aplicação .  OK 
